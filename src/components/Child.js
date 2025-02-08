@@ -16,7 +16,7 @@ const Child = ({isLoggedIn, setIsLoggedIn}) => {
           <button type="submit">Login</button>
         </form>
         ) : (
-            <p>You are loggedin!</p>
+            <p>You are logged in!</p>
         )
        }
     </div>
